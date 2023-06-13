@@ -1,0 +1,662 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "358px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "136px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "392px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "bf03bd7a-a6fd-4a62-b1ac-9cc30736ddac"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "160e727a-628e-4480-acad-4883f527c0f5",
+        "index": 0,
+        "creationTime": 1686551892716,
+        "lastEditedTime": 1686552279985
+      },
+      {
+        "id": "08a11e37-0e4b-4dcf-a447-5999947acd15",
+        "index": 1,
+        "creationTime": 1686515050404,
+        "lastEditedTime": 1686551640544
+      },
+      {
+        "id": "95c1842b-84c6-420f-a37d-74d4f988b52e",
+        "index": 2,
+        "creationTime": 1686515091036,
+        "lastEditedTime": 1686551681351
+      },
+      {
+        "id": "63c78d6f-b32e-4fab-96fa-879a2ce8fdfa",
+        "index": 3,
+        "creationTime": 1686551644783,
+        "lastEditedTime": 1686551707554
+      },
+      {
+        "id": "dbcccd2d-3db1-4fd6-9d03-aae4d058cc9f",
+        "index": 4,
+        "creationTime": 1686551645256,
+        "lastEditedTime": 1686551716084
+      },
+      {
+        "id": "a1bdb9eb-39ee-4896-959b-7f948116abca",
+        "index": 5,
+        "creationTime": 1686551646021,
+        "lastEditedTime": 1686551730588
+      },
+      {
+        "id": "f0290a0a-7fd2-4593-a460-b1a6c8ac37ad",
+        "index": 6,
+        "creationTime": 1686551646493,
+        "lastEditedTime": 1686551769700
+      },
+      {
+        "id": "25a5f7dd-b419-4218-a006-8bd4f64610d9",
+        "index": 7,
+        "creationTime": 1686551646912,
+        "lastEditedTime": 1686551794218
+      },
+      {
+        "id": "f1641dcb-d5bd-40f6-a4a9-a78039542021",
+        "index": 8,
+        "creationTime": 1686551647336,
+        "lastEditedTime": 1686551805790
+      },
+      {
+        "id": "e5d9277f-ef96-4b0f-99e2-dd2d82a5b516",
+        "index": 9,
+        "creationTime": 1686551649072,
+        "lastEditedTime": 1686551911826
+      },
+      {
+        "id": "8d8d1f19-2cfd-4563-8e96-4ee932de850c",
+        "index": 10,
+        "creationTime": 1686551649523,
+        "lastEditedTime": 1686552079549
+      },
+      {
+        "id": "31d595c1-7741-4c3c-bb63-32f992062a5d",
+        "index": 11,
+        "creationTime": 1686551649948,
+        "lastEditedTime": 1686552092138
+      },
+      {
+        "id": "a3eca210-a46b-4ccc-b2b3-eb5bf327400b",
+        "index": 12,
+        "creationTime": 1686551890244,
+        "lastEditedTime": 1686552122104
+      },
+      {
+        "id": "207abeef-ee1a-450c-a5f4-ee49afc4fb48",
+        "index": 13,
+        "creationTime": 1686551890985,
+        "lastEditedTime": 1686552194048
+      },
+      {
+        "id": "9a756149-5a20-4c24-a598-a0985691f166",
+        "index": 14,
+        "creationTime": 1686551647787,
+        "lastEditedTime": 1686551880753
+      },
+      {
+        "id": "652022aa-8032-4aca-a50a-d81425706f8f",
+        "index": 15,
+        "creationTime": 1686551891478,
+        "lastEditedTime": 1686552214777
+      },
+      {
+        "id": "b94023a5-573c-44e9-af94-4ac3785686d1",
+        "index": 16,
+        "creationTime": 1686551891862,
+        "lastEditedTime": 1686552229784
+      },
+      {
+        "id": "f94f71ee-2e32-4acd-856d-3ac58d5686d0",
+        "index": 17,
+        "creationTime": 1686551893278,
+        "lastEditedTime": 1686551893278
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "8fa7b42f-c498-453a-b6d2-a15850744a7e"
+      },
+      {
+        "id": "a06e3654-3501-4732-a884-fd2137253396"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "d731be4d-7bad-4dd3-a183-6ec484688581",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "bf03bd7a-a6fd-4a62-b1ac-9cc30736ddac",
+        "markdown": "Item"
+      },
+      {
+        "id": "ff455378-02f8-4a33-915d-1b361035e6fb",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "bf03bd7a-a6fd-4a62-b1ac-9cc30736ddac",
+        "markdown": "Quantity"
+      },
+      {
+        "id": "867d7b43-060b-470b-99f7-6b77cfb166ea",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "bf03bd7a-a6fd-4a62-b1ac-9cc30736ddac",
+        "markdown": "Description"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "08506632-8172-44ef-9a8c-96bde3d70e69",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "08a11e37-0e4b-4dcf-a447-5999947acd15",
+        "dateTime": null,
+        "markdown": "Backpack",
+        "tagIds": []
+      },
+      {
+        "id": "248f077d-b779-4764-8012-abe70555f0e7",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "95c1842b-84c6-420f-a37d-74d4f988b52e",
+        "dateTime": null,
+        "markdown": "High District Pass",
+        "tagIds": []
+      },
+      {
+        "id": "7a0a52b3-8821-4600-b651-c6969728357e",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "08a11e37-0e4b-4dcf-a447-5999947acd15",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "96ff9ffc-166a-4024-ad7e-fdcbb55ce97a",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "95c1842b-84c6-420f-a37d-74d4f988b52e",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "47450dbd-eb99-4ce2-904f-36b5f269e576",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "08a11e37-0e4b-4dcf-a447-5999947acd15",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "87e44910-74f0-425e-b12b-bda838bd734f",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "95c1842b-84c6-420f-a37d-74d4f988b52e",
+        "dateTime": null,
+        "markdown": "Pass to High District in Capitol",
+        "tagIds": []
+      },
+      {
+        "id": "612e1219-99ab-4543-81ca-d4213ecc6026",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "63c78d6f-b32e-4fab-96fa-879a2ce8fdfa",
+        "dateTime": null,
+        "markdown": "Capitol Compass",
+        "tagIds": []
+      },
+      {
+        "id": "1706d599-a24f-485e-b673-a9cc6ac15511",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "63c78d6f-b32e-4fab-96fa-879a2ce8fdfa",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "dafd400f-c4f1-481f-85e0-c1c66f09f511",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "63c78d6f-b32e-4fab-96fa-879a2ce8fdfa",
+        "dateTime": null,
+        "markdown": "Compass showing closest undercity passage",
+        "tagIds": []
+      },
+      {
+        "id": "84fbdc1f-2905-468c-98e5-dc017d45502b",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "dbcccd2d-3db1-4fd6-9d03-aae4d058cc9f",
+        "dateTime": null,
+        "markdown": "Thieves Tools",
+        "tagIds": []
+      },
+      {
+        "id": "cc6543e8-35a7-40b2-8623-d20026104b95",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "dbcccd2d-3db1-4fd6-9d03-aae4d058cc9f",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "91986343-760d-4b3d-a0e3-17fa5c9e6440",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "dbcccd2d-3db1-4fd6-9d03-aae4d058cc9f",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "336b3b52-7262-4c0f-b864-49f7f186961b",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "a1bdb9eb-39ee-4896-959b-7f948116abca",
+        "dateTime": null,
+        "markdown": "Outsider Rune",
+        "tagIds": []
+      },
+      {
+        "id": "23b9e345-8e86-4503-9ada-c55a06973b3f",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "a1bdb9eb-39ee-4896-959b-7f948116abca",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "3bd63b46-4bcf-43ef-8c1a-24b05eccde4d",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "a1bdb9eb-39ee-4896-959b-7f948116abca",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "2c54484c-e680-40a9-9d14-9a7f2256f9ea",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "f0290a0a-7fd2-4593-a460-b1a6c8ac37ad",
+        "dateTime": null,
+        "markdown": "Paper birds",
+        "tagIds": []
+      },
+      {
+        "id": "97e0fc21-8d2b-4251-9d9c-1368e7c0557c",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "f0290a0a-7fd2-4593-a460-b1a6c8ac37ad",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "b12d01ab-6eee-4bd8-8150-e801cbfbc355",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "f0290a0a-7fd2-4593-a460-b1a6c8ac37ad",
+        "dateTime": null,
+        "markdown": "Paper bird to send messages",
+        "tagIds": []
+      },
+      {
+        "id": "45622c66-e2c3-4840-a220-e4cfc03fd9e6",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "25a5f7dd-b419-4218-a006-8bd4f64610d9",
+        "dateTime": null,
+        "markdown": "Vial from Archive in Melfi",
+        "tagIds": []
+      },
+      {
+        "id": "a2ed0252-b996-4e12-afe1-818e7f1d2392",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "25a5f7dd-b419-4218-a006-8bd4f64610d9",
+        "dateTime": null,
+        "markdown": "4",
+        "tagIds": []
+      },
+      {
+        "id": "465d3ece-07c8-4a41-8b04-0de82bf628e4",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "25a5f7dd-b419-4218-a006-8bd4f64610d9",
+        "dateTime": null,
+        "markdown": "Empty vial",
+        "tagIds": []
+      },
+      {
+        "id": "620e58d5-eedc-4c26-b437-c2d711a44a94",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "f1641dcb-d5bd-40f6-a4a9-a78039542021",
+        "dateTime": null,
+        "markdown": "Rope",
+        "tagIds": []
+      },
+      {
+        "id": "439629c1-cd5e-439a-8b51-ccbfcd924772",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "f1641dcb-d5bd-40f6-a4a9-a78039542021",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "0301c141-f7ea-4469-b1b3-5a140566ec9f",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "f1641dcb-d5bd-40f6-a4a9-a78039542021",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "395b758f-06c1-48f9-b348-b51ef15ab97c",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "9a756149-5a20-4c24-a598-a0985691f166",
+        "dateTime": null,
+        "markdown": "Trap",
+        "tagIds": []
+      },
+      {
+        "id": "272f0dad-d7cf-4f10-a51b-62d7f7d94d4f",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "9a756149-5a20-4c24-a598-a0985691f166",
+        "dateTime": null,
+        "markdown": "3",
+        "tagIds": []
+      },
+      {
+        "id": "36a11d5b-2dfc-4c32-a490-11bf35828008",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "9a756149-5a20-4c24-a598-a0985691f166",
+        "dateTime": null,
+        "markdown": "1d20+80 hit chance, 1d10 hit, Grapple DC15 ",
+        "tagIds": []
+      },
+      {
+        "id": "fc7f0126-97c6-404f-9d3f-28d7d941e343",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "e5d9277f-ef96-4b0f-99e2-dd2d82a5b516",
+        "dateTime": null,
+        "markdown": "Suit",
+        "tagIds": []
+      },
+      {
+        "id": "294ee007-4ae2-43d6-a144-cadab649b6ef",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "e5d9277f-ef96-4b0f-99e2-dd2d82a5b516",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "25b94609-9c91-449f-b7ed-cf357f781875",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "e5d9277f-ef96-4b0f-99e2-dd2d82a5b516",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "724ef3a3-ed35-4b08-8e5d-b32f65de4c95",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "8d8d1f19-2cfd-4563-8e96-4ee932de850c",
+        "dateTime": null,
+        "markdown": "Maps of Castle in Capitol",
+        "tagIds": []
+      },
+      {
+        "id": "6ef98add-52e6-4e79-a629-165f98891f63",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "8d8d1f19-2cfd-4563-8e96-4ee932de850c",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "786e88e1-550a-489b-ba1e-f71e9917de54",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "8d8d1f19-2cfd-4563-8e96-4ee932de850c",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "b7553a48-8c4f-43c2-9238-ea7d595887c9",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "31d595c1-7741-4c3c-bb63-32f992062a5d",
+        "dateTime": null,
+        "markdown": "Golden Box with Relict",
+        "tagIds": []
+      },
+      {
+        "id": "877cf8e7-6394-4ebf-bbaa-2538642aa6c5",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "31d595c1-7741-4c3c-bb63-32f992062a5d",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "b0b7e201-893c-436f-92d5-5db22cfdddc3",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "31d595c1-7741-4c3c-bb63-32f992062a5d",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "b000c876-c1ab-4d81-84d7-d754be070fb7",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "a3eca210-a46b-4ccc-b2b3-eb5bf327400b",
+        "dateTime": null,
+        "markdown": "Bravery Medalion From Katharina + Document",
+        "tagIds": []
+      },
+      {
+        "id": "dd90a8a0-e33a-4cdf-b6dd-0802f54e1808",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "a3eca210-a46b-4ccc-b2b3-eb5bf327400b",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "64aeced8-b919-48ff-83be-6a205053b692",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "a3eca210-a46b-4ccc-b2b3-eb5bf327400b",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "7cf682d5-6f09-4770-8ed1-b915e83c2e3a",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "207abeef-ee1a-450c-a5f4-ee49afc4fb48",
+        "dateTime": null,
+        "markdown": "Deathknight Horn Artefact",
+        "tagIds": []
+      },
+      {
+        "id": "b9a47a0a-ab32-4f67-8d7b-45f1fbd58d86",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "207abeef-ee1a-450c-a5f4-ee49afc4fb48",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "e825f9d0-c16d-484f-8dba-2540ec1b4d45",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "207abeef-ee1a-450c-a5f4-ee49afc4fb48",
+        "dateTime": null,
+        "markdown": "TP? How to track OG Artefact?",
+        "tagIds": []
+      },
+      {
+        "id": "e964f01f-882e-4133-8405-dbf46a1ba2d5",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "652022aa-8032-4aca-a50a-d81425706f8f",
+        "dateTime": null,
+        "markdown": "Small HP Potion",
+        "tagIds": []
+      },
+      {
+        "id": "d9eff5ae-cb70-456e-98bb-ef5648536251",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "652022aa-8032-4aca-a50a-d81425706f8f",
+        "dateTime": null,
+        "markdown": "2",
+        "tagIds": []
+      },
+      {
+        "id": "e7364e41-f3e4-468e-9f8d-cd6b75e6116e",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "652022aa-8032-4aca-a50a-d81425706f8f",
+        "dateTime": null,
+        "markdown": "10HP",
+        "tagIds": []
+      },
+      {
+        "id": "5e3030d3-b452-4977-b319-1718820cb8ed",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "b94023a5-573c-44e9-af94-4ac3785686d1",
+        "dateTime": null,
+        "markdown": "Big HP Potion",
+        "tagIds": []
+      },
+      {
+        "id": "1a974a09-a9e1-48dc-a98f-a2898262a87c",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "b94023a5-573c-44e9-af94-4ac3785686d1",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "e9bea7aa-aff2-4ca7-8bcc-3d377c7a2759",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "b94023a5-573c-44e9-af94-4ac3785686d1",
+        "dateTime": null,
+        "markdown": "40HP",
+        "tagIds": []
+      },
+      {
+        "id": "1cbfa0a9-d4db-46b9-8c1d-fb46a45b1566",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "160e727a-628e-4480-acad-4883f527c0f5",
+        "dateTime": null,
+        "markdown": "Gold",
+        "tagIds": []
+      },
+      {
+        "id": "b7224e91-6216-4018-b28e-8f955548d3b2",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "160e727a-628e-4480-acad-4883f527c0f5",
+        "dateTime": null,
+        "markdown": "15,8",
+        "tagIds": []
+      },
+      {
+        "id": "ca13f890-c546-45b0-aba5-5961ac7eb194",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "160e727a-628e-4480-acad-4883f527c0f5",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "c7a29025-69d8-42b0-bf9f-9e8f0a800d96",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "f94f71ee-2e32-4acd-856d-3ac58d5686d0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "2335c56d-4fa7-4385-a0ba-f5105fbb138c",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "f94f71ee-2e32-4acd-856d-3ac58d5686d0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "2bc0ba48-8608-49f6-a914-4385fd417d13",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "f94f71ee-2e32-4acd-856d-3ac58d5686d0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "3f0d029b-a89c-4619-8eea-6272ea456f9b",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "8fa7b42f-c498-453a-b6d2-a15850744a7e"
+      },
+      {
+        "id": "69710d9e-c956-4ec0-aa25-9e6c080c2aff",
+        "columnId": "d4ad306b-a143-4c43-a1d0-6e502bfdf093",
+        "rowId": "a06e3654-3501-4732-a884-fd2137253396"
+      },
+      {
+        "id": "959234f1-eb9e-4171-8464-52bc65f1b2ed",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "8fa7b42f-c498-453a-b6d2-a15850744a7e"
+      },
+      {
+        "id": "5bd44482-54a1-4dc4-af47-ca7ca10fd2ab",
+        "columnId": "6af2cb0d-649b-40fc-aeae-d07af41d7bdc",
+        "rowId": "a06e3654-3501-4732-a884-fd2137253396"
+      },
+      {
+        "id": "6f5e4581-a4e9-4a66-9e93-0b9288f13de1",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "8fa7b42f-c498-453a-b6d2-a15850744a7e"
+      },
+      {
+        "id": "d3c53a22-339b-4154-9de5-6e21e07d28cc",
+        "columnId": "8d412b13-d266-4e81-9135-0ae08b8298a7",
+        "rowId": "a06e3654-3501-4732-a884-fd2137253396"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.1"
+}

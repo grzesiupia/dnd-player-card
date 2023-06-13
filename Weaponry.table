@@ -1,0 +1,512 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "362px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "130px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "379px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": false,
+        "tags": [],
+        "functionType": "none",
+        "aspectRatio": "16/9",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "0b2ef65f-689f-41bb-98de-07658084b198"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "4ba304a2-94ad-43ba-aec0-566fa839ee80",
+        "index": 0,
+        "creationTime": 1686552291704,
+        "lastEditedTime": 1686552549088
+      },
+      {
+        "id": "f96fae13-828e-4abc-9382-91037aa46d8f",
+        "index": 1,
+        "creationTime": 1686552401969,
+        "lastEditedTime": 1686552552854
+      },
+      {
+        "id": "c2cf8950-a2e4-4fc2-9ac0-164e9b85c6e9",
+        "index": 2,
+        "creationTime": 1686552402666,
+        "lastEditedTime": 1686552517735
+      },
+      {
+        "id": "7eb47bbc-c106-439a-b1c3-3afa36aa1299",
+        "index": 3,
+        "creationTime": 1686552403151,
+        "lastEditedTime": 1686552532238
+      },
+      {
+        "id": "52e3b897-d9ee-4c3b-88f6-86d67a183d99",
+        "index": 4,
+        "creationTime": 1686552403544,
+        "lastEditedTime": 1686552576762
+      },
+      {
+        "id": "2fc46b1a-2872-426c-a431-ccee2667e9e6",
+        "index": 5,
+        "creationTime": 1686552403881,
+        "lastEditedTime": 1686552618980
+      },
+      {
+        "id": "6c3c4ca7-35ad-484e-a5ab-64d966738054",
+        "index": 6,
+        "creationTime": 1686552404376,
+        "lastEditedTime": 1686552829746
+      },
+      {
+        "id": "cc8140eb-a52c-4080-84b7-73ebfaf16f44",
+        "index": 7,
+        "creationTime": 1686552404804,
+        "lastEditedTime": 1686552851863
+      },
+      {
+        "id": "ef169443-eae3-4958-9459-d37f85dc9220",
+        "index": 8,
+        "creationTime": 1686552405186,
+        "lastEditedTime": 1686552863678
+      },
+      {
+        "id": "5770b08e-bff4-4fd1-8d41-778de7150f52",
+        "index": 9,
+        "creationTime": 1686552405706,
+        "lastEditedTime": 1686552884737
+      },
+      {
+        "id": "d45241f8-5909-4566-a77b-56f36f6bba46",
+        "index": 10,
+        "creationTime": 1686552406086,
+        "lastEditedTime": 1686552934460
+      },
+      {
+        "id": "471b1d69-5e1a-4539-a853-8865048070e0",
+        "index": 11,
+        "creationTime": 1686552406526,
+        "lastEditedTime": 1686552406526
+      },
+      {
+        "id": "d35c1ed9-80db-4f45-a8fb-33055848f23e",
+        "index": 12,
+        "creationTime": 1686552406976,
+        "lastEditedTime": 1686552406976
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "b71850e8-d8f7-490e-b80a-09e79102f524"
+      },
+      {
+        "id": "5f5a30c0-dee9-4c98-a271-66bfa3aacee7"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "000465fb-76a0-4bb8-9b36-f354e37a8389",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "0b2ef65f-689f-41bb-98de-07658084b198",
+        "markdown": "Item"
+      },
+      {
+        "id": "e2d52009-6187-41be-8203-96f190b2b5c4",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "0b2ef65f-689f-41bb-98de-07658084b198",
+        "markdown": "Quantity"
+      },
+      {
+        "id": "00550d35-6d8d-4ca6-8b34-914476e2addb",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "0b2ef65f-689f-41bb-98de-07658084b198",
+        "markdown": "Description"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "ff9e00dc-790d-400d-b61f-f8253403070e",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "4ba304a2-94ad-43ba-aec0-566fa839ee80",
+        "dateTime": null,
+        "markdown": "Dagger",
+        "tagIds": []
+      },
+      {
+        "id": "73b712f6-42b0-40f5-bf1d-095b0865e9c8",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "4ba304a2-94ad-43ba-aec0-566fa839ee80",
+        "dateTime": null,
+        "markdown": "2",
+        "tagIds": []
+      },
+      {
+        "id": "726fb4ec-097a-4a70-8958-0551beec38f4",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "4ba304a2-94ad-43ba-aec0-566fa839ee80",
+        "dateTime": null,
+        "markdown": "1d4dmg + DEX + PROF",
+        "tagIds": []
+      },
+      {
+        "id": "4a314fb1-c074-4856-91c4-a14e2eae4bcb",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "f96fae13-828e-4abc-9382-91037aa46d8f",
+        "dateTime": null,
+        "markdown": "Longbow of Ensnaring Strike",
+        "tagIds": []
+      },
+      {
+        "id": "28184e6b-1946-40bd-8869-03aa39a8cda0",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "f96fae13-828e-4abc-9382-91037aa46d8f",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "8820b68b-31a5-4dcf-b69d-0bd6a9bd25ff",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "f96fae13-828e-4abc-9382-91037aa46d8f",
+        "dateTime": null,
+        "markdown": "1d10dmg + DEX + PROF",
+        "tagIds": []
+      },
+      {
+        "id": "fc46bd13-c019-47aa-b5c9-db6c19f99099",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "c2cf8950-a2e4-4fc2-9ac0-164e9b85c6e9",
+        "dateTime": null,
+        "markdown": "Bracers of Archery",
+        "tagIds": []
+      },
+      {
+        "id": "7ba2c111-102b-4792-959b-d8d37debe36a",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "c2cf8950-a2e4-4fc2-9ac0-164e9b85c6e9",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "88d2b400-329d-44f8-befa-e2c15908e995",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "c2cf8950-a2e4-4fc2-9ac0-164e9b85c6e9",
+        "dateTime": null,
+        "markdown": "+2dmg, +2hit",
+        "tagIds": []
+      },
+      {
+        "id": "11033888-adfd-430b-b3fc-492ca2957ba9",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "7eb47bbc-c106-439a-b1c3-3afa36aa1299",
+        "dateTime": null,
+        "markdown": "Emerald Talisman",
+        "tagIds": []
+      },
+      {
+        "id": "c9a388ee-d549-4030-86c7-d2a8e9fe6a70",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "7eb47bbc-c106-439a-b1c3-3afa36aa1299",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "4f386dde-c384-4ec3-ae45-bdf364c36fde",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "7eb47bbc-c106-439a-b1c3-3afa36aa1299",
+        "dateTime": null,
+        "markdown": "+3HP",
+        "tagIds": []
+      },
+      {
+        "id": "19ae2dd1-52a1-486a-a83d-350b8f52b802",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "52e3b897-d9ee-4c3b-88f6-86d67a183d99",
+        "dateTime": null,
+        "markdown": "Shoes of Speed",
+        "tagIds": []
+      },
+      {
+        "id": "321a2ca4-ee9b-42e0-919e-ead225dfb981",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "52e3b897-d9ee-4c3b-88f6-86d67a183d99",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "e78e9d91-dda3-4cbf-aac8-de3fc546ebd8",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "52e3b897-d9ee-4c3b-88f6-86d67a183d99",
+        "dateTime": null,
+        "markdown": "+2 speed",
+        "tagIds": []
+      },
+      {
+        "id": "64a280e3-4190-4986-9597-fc0f1fb35d54",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "2fc46b1a-2872-426c-a431-ccee2667e9e6",
+        "dateTime": null,
+        "markdown": "Disappearing Gloves",
+        "tagIds": []
+      },
+      {
+        "id": "c36cc629-acd6-4b34-8772-b81b7b8ef336",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "2fc46b1a-2872-426c-a431-ccee2667e9e6",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "225d4d56-c658-4275-98cc-03ba74ab5ad9",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "2fc46b1a-2872-426c-a431-ccee2667e9e6",
+        "dateTime": null,
+        "markdown": "Hide item in another dimension",
+        "tagIds": []
+      },
+      {
+        "id": "c0e1eee6-a9d7-4595-8e72-43816d21e4fa",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "6c3c4ca7-35ad-484e-a5ab-64d966738054",
+        "dateTime": null,
+        "markdown": "Outsider longbow",
+        "tagIds": []
+      },
+      {
+        "id": "bb3632aa-10d7-4aba-bb40-1329074e5878",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "6c3c4ca7-35ad-484e-a5ab-64d966738054",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "b7168da5-1bd4-4e30-87cf-47ee92b6197e",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "6c3c4ca7-35ad-484e-a5ab-64d966738054",
+        "dateTime": null,
+        "markdown": "1d10dmg + DEX + PROF\n - Stores 5 charges to use for casting spells\n - Charge +1 for Ritual at Midnight\n - Charge +1 for kill of enemy with soul\n - Use to get 1d6dmg for per used charge\n - Place for 2 runes",
+        "tagIds": []
+      },
+      {
+        "id": "b3ce8661-7839-4faf-8097-8fcc6e0e0b6a",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "cc8140eb-a52c-4080-84b7-73ebfaf16f44",
+        "dateTime": null,
+        "markdown": "Outsider arrow",
+        "tagIds": []
+      },
+      {
+        "id": "ad8fa435-1790-4c83-8c6e-ae6d0188a6a0",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "cc8140eb-a52c-4080-84b7-73ebfaf16f44",
+        "dateTime": null,
+        "markdown": "3",
+        "tagIds": []
+      },
+      {
+        "id": "33dd500d-67c5-46d2-9ccf-cb595791e96c",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "cc8140eb-a52c-4080-84b7-73ebfaf16f44",
+        "dateTime": null,
+        "markdown": "Boost spells",
+        "tagIds": []
+      },
+      {
+        "id": "6bd78e82-437e-4915-840b-fc2eebec34d7",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "ef169443-eae3-4958-9459-d37f85dc9220",
+        "dateTime": null,
+        "markdown": "Crystal arrow",
+        "tagIds": []
+      },
+      {
+        "id": "a8e2e8cc-f497-44e5-9dad-222112166eba",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "ef169443-eae3-4958-9459-d37f85dc9220",
+        "dateTime": null,
+        "markdown": "2",
+        "tagIds": []
+      },
+      {
+        "id": "573c7f78-aeff-44aa-a618-96c1ff64893e",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "ef169443-eae3-4958-9459-d37f85dc9220",
+        "dateTime": null,
+        "markdown": "Boost spells",
+        "tagIds": []
+      },
+      {
+        "id": "89f9d8e3-f95a-43d5-a717-9f5048a2b336",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "5770b08e-bff4-4fd1-8d41-778de7150f52",
+        "dateTime": null,
+        "markdown": "Frozen arrow",
+        "tagIds": []
+      },
+      {
+        "id": "62120943-06d4-4582-8feb-c26710c7d840",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "5770b08e-bff4-4fd1-8d41-778de7150f52",
+        "dateTime": null,
+        "markdown": "10",
+        "tagIds": []
+      },
+      {
+        "id": "90b1e378-5fc0-42e1-a365-b14ac8e78472",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "5770b08e-bff4-4fd1-8d41-778de7150f52",
+        "dateTime": null,
+        "markdown": "1d6dmg from cold",
+        "tagIds": []
+      },
+      {
+        "id": "bb11b81a-ea46-4c9f-b28d-b4437db31fea",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "d45241f8-5909-4566-a77b-56f36f6bba46",
+        "dateTime": null,
+        "markdown": "Flaming sword",
+        "tagIds": []
+      },
+      {
+        "id": "cd649bc3-6432-4319-94a7-854b20a761cc",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "d45241f8-5909-4566-a77b-56f36f6bba46",
+        "dateTime": null,
+        "markdown": "1",
+        "tagIds": []
+      },
+      {
+        "id": "592bf129-ebb7-4cde-bd1a-615d60b4e7f4",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "d45241f8-5909-4566-a77b-56f36f6bba46",
+        "dateTime": null,
+        "markdown": "1d6dmg + 1d4dmg from fire + DEX + PROF",
+        "tagIds": []
+      },
+      {
+        "id": "fce87ac6-581c-402c-9ac6-d9776268ec8d",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "471b1d69-5e1a-4539-a853-8865048070e0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "3f0cb2bb-c63b-4af6-977a-3ce5b75b61bd",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "471b1d69-5e1a-4539-a853-8865048070e0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "dc5bc146-36dc-479e-b6c1-5f669904af19",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "471b1d69-5e1a-4539-a853-8865048070e0",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "26809f5c-ec6d-479f-9b0d-3808fbb952d5",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "d35c1ed9-80db-4f45-a8fb-33055848f23e",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "9bef0252-5065-4ca7-a8e4-774c909a46b7",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "d35c1ed9-80db-4f45-a8fb-33055848f23e",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      },
+      {
+        "id": "2e2bc55f-420b-441f-824a-eb1c9763fd5a",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "d35c1ed9-80db-4f45-a8fb-33055848f23e",
+        "dateTime": null,
+        "markdown": "",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "8b450083-9bd8-48b5-afac-520929456160",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "b71850e8-d8f7-490e-b80a-09e79102f524"
+      },
+      {
+        "id": "da8253ad-3986-45c2-a382-ceffed3d2226",
+        "columnId": "e47f7940-eb92-487f-adde-544a097d7ddd",
+        "rowId": "5f5a30c0-dee9-4c98-a271-66bfa3aacee7"
+      },
+      {
+        "id": "87aefdd1-c102-4310-9273-97f43c3bfba0",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "b71850e8-d8f7-490e-b80a-09e79102f524"
+      },
+      {
+        "id": "b128516d-6497-473c-8b71-43937718282e",
+        "columnId": "c3a1a1d4-7bc6-493c-a43b-c080a530050f",
+        "rowId": "5f5a30c0-dee9-4c98-a271-66bfa3aacee7"
+      },
+      {
+        "id": "6064955d-393c-4a5c-bec1-35001bcd96a9",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "b71850e8-d8f7-490e-b80a-09e79102f524"
+      },
+      {
+        "id": "ea616f4d-d2eb-486a-b7aa-1062869be3e3",
+        "columnId": "7b1f4f59-545b-4aef-9138-2289fe31a656",
+        "rowId": "5f5a30c0-dee9-4c98-a271-66bfa3aacee7"
+      }
+    ],
+    "filterRules": []
+  },
+  "pluginVersion": "6.18.1"
+}
